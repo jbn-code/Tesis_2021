@@ -1,0 +1,23 @@
+%\import {〈full-path〉} {〈file〉} and
+%\subimport {〈path-extension〉} {〈file〉}
+
+\documentclass[11pt, oneside]{article}
+\input{miscelaneos/header_master}
+
+
+\begin{document}
+\input{miscelaneos/cover}
+
+%---------------------- INICIO INDICE ----------------------
+\tableofcontents
+\clearpage
+%---------------------- FIN INDICE ----------------------
+\subimport{meses}{mayo}
+\subimport{meses}{junio}
+
+
+%% Enlaces
+\section{Enlaces de interés.}
+    \subimport{links}{links}
+
+\end{document}

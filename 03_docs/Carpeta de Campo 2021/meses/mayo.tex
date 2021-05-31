@@ -1,0 +1,62 @@
+\section{Mayo 2021}
+
+\subsection*{Lunes 24/05/21}
+    \begin{itemize}
+        \item Reunion para ver estrategias Agiles, Scrum.
+    \end{itemize}
+
+\subsection*{Martes 25/05/21}
+    \begin{itemize}
+        \item Prueba Micropython en ESP32. \textcolor{red}{Descartado}, falta de soporte. Pudimos cargar los ejemplos de los programas basicis (blinky, leer puerto serie, i2c scan), pero vemos que hay pocas librerias desarrolladas para upython y upip.
+            \begin{itemize}
+                \item \href{https://micropython.org/download/}{uPython.}
+                \item \href{http://docs.micropython.org/en/v1.15/esp32/tutorial/intro.html}{Tutorial uPython en ESP32.}
+                \item \href{http://docs.micropython.org/en/v1.15/esp8266/tutorial/index.html#esp8266-tutorial}{Tutorial uPython en ESP8266.}
+            \end{itemize}
+        \item Se investiga sobre sensores usados en la industria
+            \begin{itemize}
+                \item Algunos de los mas usados son los de 'Meter Enviroment'
+                \item Los modelos de la línea TEROS y ECH20 serían los mas adecuados para nuestra aplicación.
+                \item Su costo va desde los U\$D 80 a U\$D 200.
+            \end{itemize}
+    \end{itemize}
+
+\subsection*{Miércoles 26/05/21}
+\begin{itemize}
+    \item Prueba Libreria de sensor SHT (SHT-Esp32) en Heltec Lora ESP32 v2, \textcolor{red}{no funciona} en esta placa.
+    \item Prueba Libreria de sensor SHT (SHT-Esp32) en placa Arduino Uno, \textcolor{ForestGreen}{funciona correctamente}.
+        \begin{itemize}
+            \item \href{https://github.com/beegee-tokyo/SHT1x-ESP}{Libreria SHT1x-ESP}
+        \end{itemize}
+    \item Prueba MQTT entre Heltec Lora-ESP32 y Raspberry pi 3b+ (funciona)
+    \item Se busca información en general sobre mediciones de humedad, protocolos de calibración y tipos de sensores. Se encuentran dos documentos que describen los pasos correctos para la instalación de sensores y señalan diversos métodos de calibración.
+        \begin{itemize}
+            \item \href{https://www.metergroup.com/environment/events/soil-moisture-201-measurements-methods-and-applications/}{Webinario: Soil Moisture 201: Water Content Measurements, Methods, and Applications}
+        \end{itemize}
+    
+\end{itemize}
+
+\subsection*{Jueves 27/05/21}
+\begin{itemize}
+    \item Prueba Libreria de sensor SHT (SHT-Esp32) en NodeMCUv1 basado en ESP8266, \textcolor{ForestGreen}{funciona correctamente}.
+        \begin{itemize}
+            \item \href{https://github.com/beegee-tokyo/SHT1x-ESP}{Libreria SHT1x-ESP}
+        \end{itemize}
+    \item Prueba MQTT entre Heltec Lora-ESP32 y Raspberry pi 3b+ con envió de datos, fallas en puerto de com 1883 
+    \item Se buscan fórmulas que nos permitan comprobar el correcto funcionamiento del sensor. Se encuentran muchas formas de medir la humedad, por lo que vamos a tener que probarlas respecto de nuestro sensor para ver cuál se adapta mejor.
+    \item Se encuentra un seminario sobre mediciones de humedad en suelo.
+    
+\end{itemize}
+\subsection*{Viernes 28/05/21}
+\begin{itemize}
+    \item Determinación de sensor SHT30 compra para actualizar el SHT11
+    \item \textcolor{orange}{Compra 2 Sensores SHT30, MUX I2C TCA9548a}
+\end{itemize}
+\subsection*{Sábado 29/05/21 y Domingo 30/05/21}
+    \begin{itemize}
+        \item Día Libre.
+    \end{itemize}
+
+\subsection*{Lunes 31/05/21}
+
+\clearpage

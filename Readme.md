@@ -8,13 +8,13 @@ En la zona rural del Valle de Calamuchita (Córdoba, Argentina) se encuentra un 
 
 <p align="center">
 	<img src="images/crocus_sativus.jpg" alt="Crocus Sativus" style="max-width: 50%;">
-	<img src="images/crocus_sativus.jpg2" alt="Crocus Sativus" style="max-width: 50%;">
+	<img src="images/crocus_sativus2.jpg" alt="Crocus Sativus" style="max-width: 50%;">
 </p>
 
 Su alto valor comercial reside en la forma artesanal de su cosecha, de la misma manera que se hacia hace centenares de años, se sigue haciendo de forma manual, "Azafrán Mediterráneo" cuenta con "piletones" de material los cuales le permiten un mejor control de las variables que favorecen el crecimiento de los bulbos, como riego, fertilización y calidad del sustrato.
 
 <p align="center">
-	<img src="images/piletones.jpg" alt="Piletones para cosecha" style="max-width: 70%;">
+	<img src="images/piletones.jpg" alt="Piletones para cosecha" style="max-width:70%;">
 </p>
 
 Esta planta es azotada por una clase de hongo que crece en determinadas condiciones de temperatura y humedad, el objetivo de este proyecto es monitoriar dichas variables del suelo para poder activar unas electroválvulas del sistema de riego por goteo cambiando los valores que favorecen la proliferación del hongo.

@@ -7,7 +7,7 @@ Este repositorio esta destinado al desarrollo de la tesis para obtener el grado 
 En la zona rural del Valle de Calamuchita (Córdoba, Argentina) se encuentra un emprendimiento cordobés "Azafrán Mediterráneo" dedicado a la cosecha, producción e inversión en "Crocus Sativus" (Azafrán), de esta planta violácea se utilizan los pistilos para la producción de la preciada especia, la cual se utiliza en una amplia variedad de rubros, ademas del azafrán de mesa, lo podemos encontrar como materia prima en linea estética para champú, perfumes, colonias, e incluso se utiliza en la producción de fernet.
 
 <p align="center">
-	<img src="images/crocus_sativus.jpg" alt="Crocus Sativus" width="600"> 
+	<img src="images/crocus_sativus.png" alt="Crocus Sativus" width="600"> 
 </p>
 
 Su alto valor comercial reside en la forma artesanal de su cosecha, de la misma manera que se hacia hace centenares de años, se sigue haciendo de forma manual, "Azafrán Mediterráneo" cuenta con "piletones" de material los cuales le permiten un mejor control de las variables que favorecen el crecimiento de los bulbos, como riego, fertilización y calidad del sustrato.

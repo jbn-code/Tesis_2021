@@ -4,13 +4,18 @@ Este repositorio esta destinado al desarrollo de la tesis para obtener el grado 
 ---
 
 ## Problemática a resolver.
-En la zona rural del Valle de Calamuchita (Córdoba, Argentina) se encuentra un emprendimiento cordobés "Azafrán Mediterráneo" dedicado a la cosecha, producción e inversión en "Crocus Sativus" (Azafrán), de esta planta violácea se utilizan los pistilos para la producción de la preciada especia, la cual se utiliza en una amplia variedad de rubros, ademas del azafran de mesa, lo podemos encontrar como materia prima en linea estetica para champu, perfimes, coloneas, e incluso se ultiliza en la produccion de fernet.
+En la zona rural del Valle de Calamuchita (Córdoba, Argentina) se encuentra un emprendimiento cordobés "Azafrán Mediterráneo" dedicado a la cosecha, producción e inversión en "Crocus Sativus" (Azafrán), de esta planta violácea se utilizan los pistilos para la producción de la preciada especia, la cual se utiliza en una amplia variedad de rubros, ademas del azafrán de mesa, lo podemos encontrar como materia prima en linea estética para champú, perfumes, colonias, e incluso se utiliza en la producción de fernet.
 
-![Crocus Sativus](images/crocus_sativus.jpg)
+<p align="center">
+	<img src="images/crocus_sativus.jpg" alt="Crocus Sativus" style="max-width: 50%;">
+	<img src="images/crocus_sativus.jpg2" alt="Crocus Sativus" style="max-width: 50%;">
+</p>
 
-Su alto valor comercial reside en la forma artesanal de su cosecha, de la misma manera que se hacia hace centenares de años, se sigue haciendo de forma manual, "Azafrán Mediterraneo" cuenta con "piletones" de material los cuales le permiten un mejor control de las variables que favorecen el crecimiento de los bulbos, como riego, fertilización y calidad del sustrato.
+Su alto valor comercial reside en la forma artesanal de su cosecha, de la misma manera que se hacia hace centenares de años, se sigue haciendo de forma manual, "Azafrán Mediterráneo" cuenta con "piletones" de material los cuales le permiten un mejor control de las variables que favorecen el crecimiento de los bulbos, como riego, fertilización y calidad del sustrato.
 
-![Crocus Sativus](images/piletones.jpg)
+<p align="center">
+	<img src="images/piletones.jpg" alt="Piletones para cosecha" style="max-width: 70%;">
+</p>
 
 Esta planta es azotada por una clase de hongo que crece en determinadas condiciones de temperatura y humedad, el objetivo de este proyecto es monitoriar dichas variables del suelo para poder activar unas electroválvulas del sistema de riego por goteo cambiando los valores que favorecen la proliferación del hongo.
 

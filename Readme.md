@@ -33,12 +33,12 @@ Esto va a estar controlado a través de un servidor hosteado de forma local en u
 
 ### TODO
 * Sensor
-	+ Probar SH30
+	+ Probar SHT30
 
 * Servidor
 	+ WebServer (nginx)
-	+ Frontend (react)
-	+ Backend (nodejs)
+	+ Frontend (react o angular)
+	+ Backend (Golang o django)
 	+ DB (mongoDB o rethinkDB)
 
 
